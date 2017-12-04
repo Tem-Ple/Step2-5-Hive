@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fun_udf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fun_udf_jar</output-path>
+    <root id="archive" name="fun_udf.jar">
+      <element id="module-output" name="fun_udf" />
+    </root>
+  </artifact>
+</component>
